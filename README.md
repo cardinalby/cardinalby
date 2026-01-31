@@ -8,13 +8,13 @@
     </td>
 </tr>
 <tr>
-    <td><a href="https://github.com/cardinalby/hureg">hureg</a></td>
+    <td>★ <a href="https://github.com/cardinalby/hureg">hureg</a></td>
     <td>
         Huma framework extensions: registration groups and OpenAPI endpoints management
     </td>
 </tr>
 <tr>
-    <td><a href="https://github.com/cardinalby/wallclock">wallclock</a></td>
+    <td>★ <a href="https://github.com/cardinalby/wallclock">wallclock</a></td>
     <td>
         Wall-clock aware alarms that fire at specific wall times, handling system clock adjustments gracefully.
     </td>
@@ -29,6 +29,12 @@
     <td><a href="https://github.com/cardinalby/xgo-pack">xgo-pack</a></td>
     <td>
         Show it when somebody says it's impossible to build cross-platform Go GUI app in docker without having Mac + Linux + Windows machines
+    </td>
+</tr>
+<tr>
+    <td>★ <a href="https://github.com/cardinalby/go-slicer">go-slicer</a></td>
+    <td>
+        Creating multiple slices that share the same underlying array without manual index management
     </td>
 </tr>
 <tr>
@@ -49,13 +55,13 @@
 
 <table>
 <tr>
-    <td><a href="https://github.com/cardinalby/github-action-ts-run-api">github-action-ts-run-api</a></td>
+    <td>★ <a href="https://github.com/cardinalby/github-action-ts-run-api">github-action-ts-run-api</a></td>
     <td>
-        Sophisticated one: lib for integration testing of GitHub Actions: mock a GitHub runner and test your action locally
+        Lib for integration testing of GitHub Actions: mocks a GitHub runner to test your action locally
     </td>
 </tr>
 <tr>
-    <td><a href="https://github.com/cardinalby/js-concurrent">js-concurrent</a></td>
+    <td>★ <a href="https://github.com/cardinalby/js-concurrent">js-concurrent</a></td>
     <td>
         Abort-aware concurrency primitives for JavaScript/TypeScript, inspired by Go's errgroup pattern
     </td>
@@ -83,7 +89,7 @@
 
 <table>
 <tr>
-    <td><a href="https://github.com/cardinalby/phpContentDisposition">phpContentDisposition</a></td>
+    <td>★ <a href="https://github.com/cardinalby/phpContentDisposition">phpContentDisposition</a></td>
     <td>
         Complete implementation of HTTP Content-Disposition header parsing and formatting
     </td>
@@ -103,7 +109,7 @@
     </td>
 </tr>
 <tr>
-    <td><a href="https://github.com/cardinalby?tab=repositories&q=schedule-job&type=&language=&sort=">Delayed actions</a></td>
+    <td>★ <a href="https://github.com/cardinalby?tab=repositories&q=schedule-job&type=&language=&sort=">Delayed actions</a></td>
     <td>
         A set of actions (<a href="https://cardinalby.github.io/blog/post/github-actions/implementing-deferred-steps/">blogpost</a>) 
         for implementing delayed jobs in GitHub Actions workflows
@@ -133,7 +139,7 @@
 
 <table>
 <tr>
-    <td><a href="https://gmaps-extended-routes.pages.dev/">Google Maps Extended Routes</a> (<i>private</i>)</td>
+    <td>★ <a href="https://gmaps-extended-routes.pages.dev/">Google Maps Extended Routes</a> (<i>private</i>)</td>
     <td>
         Injects into Google Maps and extends its routes functionality: add multiple destinations, 
         optimize route, export to different file formats/services, make it compatible with a mobile app, etc
@@ -157,7 +163,7 @@
     </td>
 </tr>
 <tr>
-    <td><a href="https://cardinalby.github.io/tea-collage/#/collage/">Tea Collage: React demo</a></td>
+    <td>★ <a href="https://cardinalby.github.io/tea-collage/#/collage/">Tea Collage: React demo</a></td>
     <td>
         Interactive tea collage personal art project 
     </td>
