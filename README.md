@@ -1,7 +1,7 @@
 ## Go
 
 <table>
-    <tr>
+<tr>
     <td><a href="https://github.com/cardinalby/depo">depo</a></td>
     <td>
         Dependency management and lifecycle with parallel starts/stops for larger Go applications. That's what I would use instead of Uber's fx.
@@ -11,6 +11,12 @@
     <td>★ <a href="https://github.com/cardinalby/hureg">hureg</a></td>
     <td>
         Huma framework extensions: registration groups and OpenAPI endpoints management
+    </td>
+</tr>
+<tr>
+    <td>★ <a href="https://github.com/cardinalby/go-docver">docver</a></td>
+    <td>
+        Declarative schema-on-read document migrations for Go
     </td>
 </tr>
 <tr>
@@ -32,7 +38,7 @@
     </td>
 </tr>
 <tr>
-    <td>★ <a href="https://github.com/cardinalby/go-slicer">go-slicer</a></td>
+    <td><a href="https://github.com/cardinalby/go-slicer">go-slicer</a></td>
     <td>
         Creating multiple slices that share the same underlying array without manual index management
     </td>
