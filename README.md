@@ -2,9 +2,9 @@
 
 <table>
 <tr>
-    <td><a href="https://github.com/cardinalby/depo">depo</a></td>
+    <td>★ <a href="https://github.com/cardinalby/go-conveyor">go-conveyor</a></td>
     <td>
-        Dependency management and lifecycle with parallel starts/stops for larger Go applications. That's what I would use instead of Uber's fx.
+        Item-centric go pipelines runner
     </td>
 </tr>
 <tr>
@@ -20,9 +20,15 @@
     </td>
 </tr>
 <tr>
-    <td>★ <a href="https://github.com/cardinalby/wallclock">wallclock</a></td>
+    <td><a href="https://github.com/cardinalby/wallclock">wallclock</a></td>
     <td>
         Wall-clock aware alarms that fire at specific wall times, handling system clock adjustments gracefully.
+    </td>
+</tr>
+<tr>
+    <td><a href="https://github.com/cardinalby/depo">depo</a></td>
+    <td>
+        Dependency management and lifecycle with parallel starts/stops for larger Go applications. That's what I would use instead of Uber's fx.
     </td>
 </tr>
 <tr>
@@ -141,7 +147,7 @@
 </tr>
 </table>
 
-## Browser Extensions
+## Web
 
 <table>
 <tr>
@@ -157,11 +163,6 @@
         Upload audio files to Memrise courses in bulk
     </td>
 </tr>
-</table>
-
-## Frontend apps
-
-<table>
 <tr>
     <td><a href="https://cardinalby.github.io/blog/">My tech blog</a></td>
     <td>
